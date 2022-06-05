@@ -3,7 +3,7 @@
 This project is a Dating Simulator Game commonly called Galge. It was made in **Python** using **Tkinter** Gui Toolkit. 
 (Not yet finished cause of incomplete story lines, sprites, and backgrounds.)
 
-PS: I do not own any of the image/backgrounds used in this game. I just used it just for practice purposes.
+PS: I do not own any of the image/backgrounds used in this game. I just used it for practice purposes.
 
 _____
 
