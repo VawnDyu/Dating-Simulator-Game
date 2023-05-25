@@ -1,4 +1,4 @@
-Dating Simulator Game (Unfinished)
+# Dating Simulator Game (Unfinished)
 
 This project is a Dating Simulator Game. It was made in **Python** using **Tkinter** Gui Toolkit. 
 (Not yet finished cause of incomplete story lines, sprites, and backgrounds.)
